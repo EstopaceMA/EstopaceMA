@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-MA_Estopace-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MA_Estopace/)](https://www.twitter.com/MA_Estopace/) 
 [![Github Badge](https://img.shields.io/badge/-EstopaceMA-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EstopaceMA/)](https://www.github.com/EstopaceMA/) 
 <p align='left'>
-  I'm a graduate of Bachelor of Science in Information Technology. I am currently working as a Software Engineer and focusing more on Web Development.
+  I'm a graduate of Bachelor of Science in Information Technology. I am currently working as a Software Engineer and focusing more on Web Development and currently learning mobile development using react native and node for backend.
 </p>
 
 ## &#x1f4c8; Some of my Github Stats
