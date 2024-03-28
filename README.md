@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-MA_Estopace-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/MA_Estopace/)](https://www.twitter.com/MA_Estopace/) 
 [![Github Badge](https://img.shields.io/badge/-EstopaceMA-grey?style=flat&logo=github&logoColor=white&link=https://github.com/EstopaceMA/)](https://www.github.com/EstopaceMA/) 
 <p align='left'>
-  Software Engineer at Enstack, mainly focused on Web Development. Loves to join Hackathons and actively involves in various Tech Communities to share knowledge.
+  Software Engineer, mainly focused on Web Development. Loves to join Hackathons and actively involves in various Tech Communities to share knowledge.
 </p>
 
 ## &#x1f4c8; Some of my Github Stats
